@@ -1,0 +1,562 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ffbn",
+				"FindFriendByName"
+			],
+			[
+				"got_us",
+				"got_user_lists	statement"
+			],
+			[
+				"dat",
+				"datetime	import"
+			],
+			[
+				"date",
+				"datetime	class"
+			],
+			[
+				"costum",
+				"costumebase_index"
+			],
+			[
+				"fro",
+				"from	(keyword, instance)"
+			],
+			[
+				"res",
+				"reserved_nickname	(local, instance)"
+			],
+			[
+				"got",
+				"got_user	(local, instance)"
+			],
+			[
+				"re",
+				"result	(local, instance)"
+			],
+			[
+				"from",
+				"from_keys	(local, instance)"
+			],
+			[
+				"getca",
+				"get_cash"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"go",
+				"got_data	(local, instance)"
+			],
+			[
+				"open",
+				"opened"
+			],
+			[
+				"ope",
+				"opened"
+			],
+			[
+				"AddPu",
+				"AddPuzzle	(attribute, instance)"
+			],
+			[
+				"getPuzz",
+				"getOpenedPuzzlePieces	(imported, function)"
+			],
+			[
+				"fin",
+				"find_puzzle_piece	(local, instance)"
+			],
+			[
+				"find",
+				"find_puzzle_piece"
+			],
+			[
+				"check",
+				"checkContainKeys(my_list, my_dict)	(imported, function)"
+			],
+			[
+				"Getpu",
+				"GetPuzzlePieces	(attribute, instance)"
+			],
+			[
+				"mad",
+				"made_puzzle_piece	(local, instance)"
+			],
+			[
+				"me",
+				"methods"
+			],
+			[
+				"bas",
+				"Base"
+			],
+			[
+				"inte",
+				"Integer"
+			],
+			[
+				"user",
+				"user_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hello_world.rb",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"qcmm",
+				"Git: Quick Commit"
+			],
+			[
+				"qcomm",
+				"Git: Quick Commit"
+			],
+			[
+				"qcm",
+				"Git: Quick Commit"
+			],
+			[
+				"qco",
+				"Git: Quick Commit"
+			],
+			[
+				"qcom",
+				"Git: Quick Commit"
+			],
+			[
+				"gico",
+				"Git: Quick Commit"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_mails.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_friends.py",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 3/Packages/SublimeJEDI/Default.sublime-keymap",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_characters.py",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/Default (Windows).sublime-keymap",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 3/Packages/SublimeJEDI/sublime_jedi.sublime-settings",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_costumes.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_diaries.py",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 2/Packages/User/GoSublime.sublime-settings",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 2/Packages/GoSublime/GoSublime.sublime-settings",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_users.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/serverconfig.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/mrd_srv.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/util/checktype.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/user.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/mrd_server.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/util/protocol.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/utils.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/__init__.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/fishing.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/mail.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/event.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/diary.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/puzzle.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_puzzles.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/saved.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_saved.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_fishing.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_events.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/costume.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/srver.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/character.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/friend.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/info.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/inventory.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/stat.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_stats.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/database.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/model/all.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/slot.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view/__init__.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/all.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_slots.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_inventories.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_infos.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/model/__init__.py",
+		"/C/Users/shimdh/.ssh/config",
+		"/C/Users/shimdh/.ssh/id_rsa.pub",
+		"/C/Users/shimdh/github_rsa.pub",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/models.py",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"db_session.query",
+			"db_session.",
+			"commit",
+			"check",
+			"auto",
+			"get_session_id",
+			"Integer",
+			"Column",
+			"Text",
+			"datetime",
+			"DateTime",
+			"datetime",
+			"DateTime",
+			"string",
+			"String",
+			"string",
+			"String",
+			"string",
+			"String",
+			"string",
+			"String",
+			"Integer",
+			"Column",
+			"Float",
+			"String",
+			"Integer",
+			"Column",
+			"date",
+			"Date",
+			"Boolean",
+			"String",
+			"Integer",
+			"Column",
+			"Base",
+			"base",
+			"Base",
+			"base",
+			"Base",
+			"base",
+			"Base",
+			"base",
+			"Base",
+			"base",
+			"Base",
+			"base",
+			"Base",
+			"base",
+			"Base",
+			"base",
+			"Base",
+			"base",
+			"Base",
+			"base",
+			"Base",
+			"writeDirtyLog",
+			"DirtyLog",
+			"tmp_piece",
+			"puzzle_index",
+			"find_puzzle_piece",
+			"OpenedPuzzlePiece",
+			"find_puzzle_pieces",
+			"made_puzzle_piece",
+			"index",
+			"puzzle_index",
+			"OpenedPuzzlePiece",
+			"find_puzzle_piece",
+			"find_puzzle_pieces",
+			"made_puzzle_piece",
+			"puzzle_index"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hello_world.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\Users\\shimdh\\Documents\\GoProjects\\learn-go":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 106.0
+	},
+	"project": "learn-ruby.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"char",
+				"view_characters.py"
+			],
+			[
+				"chara",
+				"view_characters.py"
+			],
+			[
+				"user",
+				"view_users.py"
+			],
+			[
+				"puzz",
+				"view_puzzles.py"
+			],
+			[
+				"dia",
+				"view_diaries.py"
+			],
+			[
+				"mr",
+				"mrd_srv.py"
+			],
+			[
+				"cos",
+				"view_costumes.py"
+			],
+			[
+				"mo",
+				"models.py"
+			],
+			[
+				"costu",
+				"view_costumes.py"
+			],
+			[
+				"mrd",
+				"mrd_srv.py"
+			],
+			[
+				"sa",
+				"view_saved.py"
+			],
+			[
+				"uti",
+				"utils.py"
+			],
+			[
+				"mod",
+				"models.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/shimdh/Documents/PythonProjects/mrd-server/mrd-server.sublime-project"
+			]
+		],
+		"width": 462.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
